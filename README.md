@@ -1,1 +1,4 @@
-# Project_For_WorkArea
+pip install opencv-python
+pip install json
+pip install cvzone
+pip install ultralytics
